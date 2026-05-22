@@ -50,9 +50,9 @@ These products use a different authentication method that doesn't require enabli
 {% endtip %}
 
   1. Go to Settings (gear icon in the upper-right).
-  2. Go to 'Meters'.
+  2. Go to **Meters**.
   3. Select your device.
-  4. Scroll down and turn on 'Local API'.
+  4. Scroll down and turn on **Local API**.
 
 {% include integrations/config_flow.md %}
 
